@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1086086624317",
+    "project_id": "gastoclub",
+    "storage_bucket": "gastoclub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086086624317:android:8522d5efab571f6c702654",
+        "android_client_info": {
+          "package_name": "com.example.gastoclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086086624317-6cl508do7udc2v2dltscov18rvnseron.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mPL3dS30VN8BBSH1Po13nsa8MROfIss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086086624317-6cl508do7udc2v2dltscov18rvnseron.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086086624317-jolccd7ot3a0ljbvbs8jj5l6o3q32ef4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gastoclub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
