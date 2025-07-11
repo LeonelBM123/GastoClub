@@ -7,6 +7,7 @@ class Colores {
     Color.fromARGB(255,83, 109, 136), // verde azulado
     Color.fromARGB(255,180, 155, 133), // verde azulado
     Color.fromARGB(255,234, 193, 149), // verde azulado
-    Color.fromARGB(255, 69, 69, 69)
+    Color.fromARGB(255, 69, 69, 69),
+    Color.fromARGB(255, 255, 255, 255),
   ];
 }
